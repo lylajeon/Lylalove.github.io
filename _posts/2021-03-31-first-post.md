@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Hello World!"
 date: 2021-03-31 00:56
-categories: Computer Vision
+categories: ComputerVision
 ---
 
 Hello, this is my first post on github blog. 
