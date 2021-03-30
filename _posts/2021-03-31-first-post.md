@@ -1,7 +1,7 @@
 ---
 title: "Hello World!"
 date: 2021-03-31 00:56
-categories: ComputerVision
+categories: 
 ---
 
 Hello, this is my first post on github blog. 
